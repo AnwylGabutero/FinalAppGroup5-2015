@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Unknown</string>
+	<key>Buffer Order</key>
+	<array>
+		<string>Main</string>
+		<string>CompanyLogo</string>
+		<string>GameLogo</string>
+		<string>MainScene</string>
+		<string>Settings</string>
+		<string>Credits</string>
+		<string>Store</string>
+		<string>Tutorial</string>
+		<string>TutCorrect</string>
+		<string>WorldSelect</string>
+		<string>Iceberg</string>
+		<string>CandyLand</string>
+		<string>Stormy</string>
+		<string>Peachy</string>
+		<string>Stargaze</string>
+		<string>LevelChosen</string>
+		<string>CorrectScene</string>
+		<string>HelperClass</string>
+	</array>
+	<key>Description</key>
+	<string>No description available</string>
+</dict>
+</plist>
